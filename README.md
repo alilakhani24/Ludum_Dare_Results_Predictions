@@ -1,3 +1,11 @@
+# Objective 
+- To predict the final score of computer games developed over a weekend and entered in the Ludum Dare competition. 
+
+# Results 
+- The final python program prepared uses several classification methods such as bootstrapping, decision trees, and neural networks. 
+- The final ensemble decision tree model used results in a 95% accuracy on unseen data points
+
+
 # Ludum_Dare_Results_Predictions
 
 Ludum Dare is a well-known, long-running online game jam. It is essentially a competition in which contestants develop a game in 48 or 72 hours, ideally relating to a particular theme, and receive rankings (1-5 stars) from other contestants. There are two categories: the "compo" (developers work alone, using no premade assets, and have only 48 hours) and the "jam" (contestants may work in teams, using some premade assets, and may take up to 72 hours). Games receive an overall rating as well as ratings for individual categories (fun, theme, innovation, graphics, audio, humour, and mood).
