@@ -9,8 +9,8 @@ For each game, there are several numerical and categorical features available, w
 The training data consists of games entered in LD38 through 45, while the test data comes from LD46. LD46 was the largest Ludum Dare competition yet by a substantial margin, presumably due to a large influx of new participants on account of COVID-19 quarantine; as such, keep in mind that there may be some shift in the distribution between the training and test sets...
 
 ## File descriptions
-train.csv - the training set (LD38 - LD45, 21950 entries)
-test.csv - the test set (LD46, 4959 entries)
+- train.csv - the training set (LD38 - LD45, 21950 entries)
+- test.csv - the test set (LD46, 4959 entries)
 sampleSubmission.csv - a sample submission file in the correct format
 thumbnails - a directory containing thumbnail images (filenames are IDs of the corresponding game)
 Data fields
